@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Eduane</string>
+
+
+    <string-array name="category_one">
+        <item><font color="#000000">Restaurants &amp; Cafe</font></item>
+        <item><font color="#000000">Restaurants</font></item>
+        <item><font color="#000000">Cafe</font></item>
+        <item><font color="#000000">Restaurants</font></item>
+        <item><font color="#000000">Cafe</font></item>
+
+    </string-array>
+
+    <string-array name="category_two">
+        <item><font color="#000000">Kitchens</font></item>
+        <item><font color="#000000">Restaurants</font></item>
+        <item><font color="#000000">Cafe</font></item>
+        <item><font color="#000000">Restaurants</font></item>
+        <item><font color="#000000">Cafe</font></item>
+
+    </string-array>
+
+    <string-array name="category_three">
+        <item><font color="#000000">Diets</font></item>
+        <item><font color="#000000">Restaurants</font></item>
+        <item><font color="#000000">Cafe</font></item>
+        <item><font color="#000000">Restaurants</font></item>
+        <item><font color="#000000">Cafe</font></item>
+
+    </string-array>
+
+    <string-array name="category_four">
+        <item><font color="#000000">Sort by</font></item>
+        <item><font color="#000000">Restaurants</font></item>
+        <item><font color="#000000">Cafe</font></item>
+        <item><font color="#000000">Restaurants</font></item>
+        <item><font color="#000000">Cafe</font></item>
+
+    </string-array>
+    <string name="title_activity_restaurant_on_map">Map</string>
+
+</resources>
